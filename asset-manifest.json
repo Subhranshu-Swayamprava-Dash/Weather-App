@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Subhranshu-Swayamprava-Dash/Weather-App/static/css/main.dfa9b935.css",
+    "main.js": "/Subhranshu-Swayamprava-Dash/Weather-App/static/js/main.7c65108d.js",
+    "static/js/787.075c4da7.chunk.js": "/Subhranshu-Swayamprava-Dash/Weather-App/static/js/787.075c4da7.chunk.js",
+    "index.html": "/Subhranshu-Swayamprava-Dash/Weather-App/index.html",
+    "main.dfa9b935.css.map": "/Subhranshu-Swayamprava-Dash/Weather-App/static/css/main.dfa9b935.css.map",
+    "main.7c65108d.js.map": "/Subhranshu-Swayamprava-Dash/Weather-App/static/js/main.7c65108d.js.map",
+    "787.075c4da7.chunk.js.map": "/Subhranshu-Swayamprava-Dash/Weather-App/static/js/787.075c4da7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa9b935.css",
+    "static/js/main.7c65108d.js"
+  ]
+}
